@@ -1,0 +1,839 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: adsense-plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-23 15:18+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <support@bestwebsoft.com>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adsense-plugin.class.php:26 adsense-plugin.class.php:633
+msgid "Google AdSense Settings"
+msgstr "Google AdSense nastavení"
+
+#: adsense-plugin.class.php:313
+msgid "Home page"
+msgstr "Úvodní strana"
+
+#: adsense-plugin.class.php:317 adsense-plugin.class.php:331
+#: adsense-plugin.class.php:346 adsense-plugin.class.php:361
+#: adsense-plugin.class.php:375
+msgid "Before the content"
+msgstr "Před obsahem"
+
+#: adsense-plugin.class.php:318 adsense-plugin.class.php:332
+#: adsense-plugin.class.php:347 adsense-plugin.class.php:362
+#: adsense-plugin.class.php:376
+msgid "After the content"
+msgstr "Za obsahem"
+
+#: adsense-plugin.class.php:321 adsense-plugin.class.php:336
+#: adsense-plugin.class.php:351 adsense-plugin.class.php:365
+#: adsense-plugin.class.php:379
+msgid "After the first paragraph (Available in Pro)"
+msgstr "Za prvním odstavcem (k dispozici v Pro)"
+
+#: adsense-plugin.class.php:322 adsense-plugin.class.php:337
+#: adsense-plugin.class.php:352 adsense-plugin.class.php:366
+#: adsense-plugin.class.php:380
+msgid "After a random paragraph (Available in Pro)"
+msgstr "Po náhodném odstavci (k dispozici v Pro)"
+
+#: adsense-plugin.class.php:327
+msgid "Pages"
+msgstr "Stránky"
+
+#: adsense-plugin.class.php:333 adsense-plugin.class.php:348
+msgid "Below the comment form"
+msgstr "Pod formulářem komentáře"
+
+#: adsense-plugin.class.php:342
+msgid "Posts / Custom posts"
+msgstr "Příspěvky / vlastní příspěvky"
+
+#: adsense-plugin.class.php:357
+msgid "Categories / Tags"
+msgstr "Kategorie / štítky"
+
+#: adsense-plugin.class.php:371
+msgid "Search results"
+msgstr "Výsledky vyhledávání"
+
+#: adsense-plugin.class.php:385
+msgid "Widget"
+msgstr "Widget"
+
+#: adsense-plugin.class.php:389 adsense-plugin.class.php:2496
+msgid "Static"
+msgstr "Statický"
+
+#: adsense-plugin.class.php:392
+msgid "Fixed (Available in Pro)"
+msgstr "Pevná (k dispozici Pro)"
+
+#: adsense-plugin.class.php:399
+msgid "Text"
+msgstr "Text"
+
+#: adsense-plugin.class.php:400
+msgid "Image"
+msgstr "Obrázek"
+
+#: adsense-plugin.class.php:401
+msgid "Text/Image"
+msgstr "Text/Obrázek"
+
+#: adsense-plugin.class.php:402
+msgid "Link"
+msgstr "Odkaz"
+
+#: adsense-plugin.class.php:406
+msgid "New"
+msgstr "Nové"
+
+#: adsense-plugin.class.php:407
+msgid "Active"
+msgstr "Aktivní"
+
+#: adsense-plugin.class.php:408
+msgid "Idle"
+msgstr ""
+
+#: adsense-plugin.class.php:412
+msgid "Responsive"
+msgstr "Responzivní"
+
+#: adsense-plugin.class.php:492
+msgid "AdUnits Error:"
+msgstr "AdUnits chyba:"
+
+#: adsense-plugin.class.php:494 adsense-plugin.class.php:506
+#: adsense-plugin.class.php:517
+#, php-format
+msgid "Create account in %s"
+msgstr "Vytvořit účet v %s"
+
+#: adsense-plugin.class.php:504
+msgid "AdClient Error:"
+msgstr "AdClient chyba:"
+
+#: adsense-plugin.class.php:515
+msgid "Account Error:"
+msgstr "Účet chyba:"
+
+#: adsense-plugin.class.php:531
+msgid "Invalid authorization code. Please, try again."
+msgstr "Neplatný autorizační kód. Opakujte akci."
+
+#: adsense-plugin.class.php:580
+#, php-format
+msgid "An error occurred while obtaining the code for the block %s."
+msgstr "Došlo k chybě při získávání kódu pro blok %s."
+
+#: adsense-plugin.class.php:580 adsense-plugin.class.php:599
+msgid "Settings are not saved."
+msgstr "Nastavení se neuložilo."
+
+#: adsense-plugin.class.php:591
+msgid "Settings saved."
+msgstr "Nastavení bylo uloženo."
+
+#: adsense-plugin.class.php:635 adsense-plugin.class.php:2540
+#: adsense-plugin.class.php:2550
+msgid "Settings"
+msgstr "Nastavení"
+
+#: adsense-plugin.class.php:636
+#, fuzzy
+msgid "Custom code"
+msgstr "Vlastní kód"
+
+#: adsense-plugin.class.php:637
+msgid "Go PRO"
+msgstr "Získat verzi Pro"
+
+#: adsense-plugin.class.php:641 adsense-plugin.class.php:646
+#: adsense-plugin.class.php:1575
+msgid "WARNING"
+msgstr ""
+
+#: adsense-plugin.class.php:641
+msgid "The plugin works correctly only if JavaScript is enabled."
+msgstr ""
+
+#: adsense-plugin.class.php:660
+msgid "Some of hidden idle ad blocks still set to be displayed"
+msgstr ""
+
+#: adsense-plugin.class.php:671
+msgid "ADS.TXT couldn't be added"
+msgstr ""
+
+#: adsense-plugin.class.php:673
+msgid ""
+"Important note: Google AdSense by BestWebSoft hasn't been able to update "
+"your ads.txt file. Please make sure that you enter the following lines "
+"manually:"
+msgstr ""
+
+#: adsense-plugin.class.php:675
+msgid ""
+"Only by doing so, you'll be able to make more money through video "
+"intelligence (vi.ai)."
+msgstr ""
+
+#: adsense-plugin.class.php:677
+msgid ""
+"If the file is missing, you won't be able to make more money through video "
+"intelligence (vi.ai)."
+msgstr ""
+
+#: adsense-plugin.class.php:688
+msgid "Remote work with Google AdSense"
+msgstr "Vzdálená práce s Google AdSense"
+
+#: adsense-plugin.class.php:692
+msgid "Log out from Google AdSense"
+msgstr "Odhlásit se od Google AdSense"
+
+#: adsense-plugin.class.php:697
+msgid "Please authorize via your Google Account to manage ad blocks."
+msgstr ""
+"Prosím autorizujte prostřednictvím účtu Google a můžete spravovat reklamní "
+"bloky."
+
+#: adsense-plugin.class.php:699
+msgid "Get Authorization Code"
+msgstr "Získat autorizační kód"
+
+#: adsense-plugin.class.php:702
+msgid "Authorize"
+msgstr "Autorizace"
+
+#: adsense-plugin.class.php:709
+msgid "Your Publisher ID:"
+msgstr "Vaše ID vydavatele:"
+
+#: adsense-plugin.class.php:717
+#, fuzzy
+msgid "Show idle ad blocks"
+msgstr "reklamní bloky"
+
+#: adsense-plugin.class.php:733
+msgid "Video content and video advertising – powered by video intelligence"
+msgstr ""
+
+#: adsense-plugin.class.php:735
+msgid "vi stories - video content and video advertising"
+msgstr ""
+
+#: adsense-plugin.class.php:742
+msgid ""
+"Advertisers pay more for video advertising when it's matched with video "
+"content. This new video player will insert both on your page. It increases "
+"time on site, and commands a higher CPM than display advertising."
+msgstr ""
+
+#: adsense-plugin.class.php:746
+msgid ""
+"You'll see video content that is matched to your sites keywords straight "
+"away. A few days after activation you'll begin to receive revenue from "
+"advertising served before this video content."
+msgstr ""
+
+#: adsense-plugin.class.php:749
+msgid "The set up takes only a few minutes"
+msgstr ""
+
+#: adsense-plugin.class.php:750
+msgid "Up to 10x higher CPM than traditional display advertising"
+msgstr ""
+
+#: adsense-plugin.class.php:751
+msgid "Users spend longer on your site thanks to professional video content"
+msgstr ""
+
+#: adsense-plugin.class.php:752
+msgid "The video player is customizable to match your site"
+msgstr ""
+
+#: adsense-plugin.class.php:755
+#, php-format
+msgid "Watch a %s of how vi stories work."
+msgstr ""
+
+#: adsense-plugin.class.php:755
+msgid "demo"
+msgstr ""
+
+#: adsense-plugin.class.php:760
+msgid "There was an error processing your request, our team was notified."
+msgstr ""
+
+#: adsense-plugin.class.php:763
+msgid "Please try again later."
+msgstr ""
+
+#: adsense-plugin.class.php:767
+msgid "Below you can see your current revenues."
+msgstr ""
+
+#: adsense-plugin.class.php:770
+#, php-format
+msgid "Don’t see anything? Consult the %s."
+msgstr ""
+
+#: adsense-plugin.class.php:770
+msgid "FAQs"
+msgstr ""
+
+#: adsense-plugin.class.php:775
+msgid "Total earnings"
+msgstr ""
+
+#: adsense-plugin.class.php:781
+msgid "Chart"
+msgstr ""
+
+#: adsense-plugin.class.php:786
+msgid "Please enable JavaScript."
+msgstr ""
+
+#: adsense-plugin.class.php:816
+#, php-format
+msgid ""
+"By clicking Sign Up button you agree to send current domain, email and "
+"affiliate ID to %s."
+msgstr ""
+
+#: adsense-plugin.class.php:817
+msgid "video intelligence"
+msgstr ""
+
+#: adsense-plugin.class.php:820 adsense-plugin.class.php:927
+#: adsense-plugin.class.php:956 adsense-plugin.class.php:1560
+msgid "Log In"
+msgstr ""
+
+#: adsense-plugin.class.php:821 adsense-plugin.class.php:990
+msgid "Sign Up"
+msgstr ""
+
+#: adsense-plugin.class.php:826
+msgid "Publisher Dashboard"
+msgstr ""
+
+#: adsense-plugin.class.php:828
+msgid "Log Out"
+msgstr ""
+
+#: adsense-plugin.class.php:865
+#, php-format
+msgid ""
+"Please don't forget to place the AdSense widget into a needed sidebar on the "
+"%s."
+msgstr "Prosím nezapomeňte přidat AdSense widget do potřebného sidebaru na %s."
+
+#: adsense-plugin.class.php:865
+msgid "widget page"
+msgstr "Stránka widgetu"
+
+#: adsense-plugin.class.php:865
+msgid "An opportunity to add several widgets is available in the"
+msgstr "Možnost přidat několik widgetů je k dispozici v"
+
+#: adsense-plugin.class.php:868
+#, php-format
+msgid "Add or manage existing ad blocks in the %s."
+msgstr "Přidání nebo správa existujících reklamních bloků v %s."
+
+#: adsense-plugin.class.php:868
+msgid "Google AdSense"
+msgstr "Google AdSense"
+
+#: adsense-plugin.class.php:869
+#, php-format
+msgid ""
+"After adding the ad block in Google AdSense, please %s to see the new ad "
+"block in the list of plugin ad blocks."
+msgstr ""
+"Po přidání reklamního bloku v Google AdSense, prosím %s zobrazíte nové "
+"reklamní bloky v seznamu pluginu reklamních bloků."
+
+#: adsense-plugin.class.php:869
+msgid "reload the page"
+msgstr "znovu načíst stránku"
+
+#: adsense-plugin.class.php:874
+msgid "Add New vi story"
+msgstr ""
+
+#: adsense-plugin.class.php:874
+msgid "Edit vi story"
+msgstr ""
+
+#: adsense-plugin.class.php:896
+msgid "Learn More"
+msgstr "Zjistit více"
+
+#: adsense-plugin.class.php:905 adsense-plugin.class.php:1836
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: adsense-plugin.class.php:943 adsense-plugin.class.php:995
+msgid "vi stories: customize your video player"
+msgstr ""
+
+#: adsense-plugin.class.php:974 adsense-plugin.class.php:982
+msgid "You are logged in."
+msgstr ""
+
+#: adsense-plugin.class.php:975 adsense-plugin.class.php:983
+msgid "Go back"
+msgstr ""
+
+#: adsense-plugin.class.php:976 adsense-plugin.class.php:984
+msgid "to the settings page."
+msgstr ""
+
+#: adsense-plugin.class.php:1012
+msgid "Like the plugin?"
+msgstr ""
+
+#: adsense-plugin.class.php:1013
+#, php-format
+msgid "%s reviews"
+msgstr ""
+
+#: adsense-plugin.class.php:1014
+msgid "Rate it"
+msgstr ""
+
+#: adsense-plugin.class.php:1023
+msgid "Need help?"
+msgstr ""
+
+#: adsense-plugin.class.php:1027
+msgid "Want to support the plugin?"
+msgstr ""
+
+#: adsense-plugin.class.php:1028
+msgid "Donate"
+msgstr ""
+
+#: adsense-plugin.class.php:1054 adsense-plugin.class.php:1945
+#: adsense-plugin.class.php:2067 adsense-plugin.class.php:2140
+msgid "Something went wrong."
+msgstr ""
+
+#: adsense-plugin.class.php:1552
+msgid "Email"
+msgstr ""
+
+#: adsense-plugin.class.php:1556
+msgid "Password"
+msgstr ""
+
+#: adsense-plugin.class.php:1617
+msgid ""
+"Use this form to customize the look of the video unit. Use the same "
+"parameters as your WordPress theme for a natural look on your site."
+msgstr ""
+
+#: adsense-plugin.class.php:1623
+msgid "Ad unit"
+msgstr ""
+
+#: adsense-plugin.class.php:1637
+msgid "vi stories (video advertising + video content)."
+msgstr ""
+
+#: adsense-plugin.class.php:1644
+msgid "Keywords"
+msgstr ""
+
+#: adsense-plugin.class.php:1650
+msgid "Max length 200 chars."
+msgstr ""
+
+#: adsense-plugin.class.php:1650
+msgid "a-z, A-Z, numbers, dashes, umlauts and accents are allowed."
+msgstr ""
+
+#: adsense-plugin.class.php:1654
+msgid ""
+"Comma separated values describing the content of the page e.g. 'cooking, "
+"grilling, pulled pork'."
+msgstr ""
+
+#: adsense-plugin.class.php:1661
+msgid "IAB Category"
+msgstr ""
+
+#: adsense-plugin.class.php:1668
+msgid "Select tier 1 category"
+msgstr ""
+
+#: adsense-plugin.class.php:1678
+msgid "Select tier 2 category"
+msgstr ""
+
+#: adsense-plugin.class.php:1688
+msgid "See complete list"
+msgstr ""
+
+#: adsense-plugin.class.php:1695
+msgid "Language"
+msgstr ""
+
+#: adsense-plugin.class.php:1701
+msgid "Select language"
+msgstr ""
+
+#: adsense-plugin.class.php:1711
+msgid "Native background color"
+msgstr ""
+
+#: adsense-plugin.class.php:1716 adsense-plugin.class.php:1727
+msgid "Select color"
+msgstr ""
+
+#: adsense-plugin.class.php:1722
+msgid "Native text color"
+msgstr ""
+
+#: adsense-plugin.class.php:1733
+msgid "Native text font family"
+msgstr ""
+
+#: adsense-plugin.class.php:1739
+msgid "Select font family"
+msgstr ""
+
+#: adsense-plugin.class.php:1749
+msgid "Native text font size"
+msgstr ""
+
+#: adsense-plugin.class.php:1755
+msgid "Select font size"
+msgstr ""
+
+#: adsense-plugin.class.php:1757
+msgid "px"
+msgstr ""
+
+#: adsense-plugin.class.php:1769 adsense-plugin.class.php:1787
+#: adsense-plugin.class.php:1805
+msgid "Optional"
+msgstr ""
+
+#: adsense-plugin.class.php:1774 adsense-plugin.class.php:1792
+#: adsense-plugin.class.php:1810
+msgid "Max length 200 chars"
+msgstr ""
+
+#: adsense-plugin.class.php:1780
+msgid "Add field"
+msgstr ""
+
+#: adsense-plugin.class.php:1798 adsense-plugin.class.php:1816
+msgid "Remove field"
+msgstr ""
+
+#: adsense-plugin.class.php:1832
+msgid "vi Ad Changes might take some time to take into effect"
+msgstr ""
+
+#: adsense-plugin.class.php:1837
+msgid "Cancel"
+msgstr ""
+
+#: adsense-plugin.class.php:1944 adsense-plugin.class.php:2066
+#: adsense-plugin.class.php:2139
+msgid "Request error"
+msgstr ""
+
+#: adsense-plugin.class.php:2047
+msgid "This field is required."
+msgstr ""
+
+#: adsense-plugin.class.php:2048 adsense-plugin.class.php:2049
+msgid "Please select a correct value."
+msgstr ""
+
+#: adsense-plugin.class.php:2050
+msgid "Please enter a correct HEX value."
+msgstr ""
+
+#: adsense-plugin.class.php:2051
+msgid "Allowed only a-z, A-Z, numbers, dashes, umlauts and accents."
+msgstr ""
+
+#: adsense-plugin.class.php:2120 adsense-plugin.class.php:2284
+msgid "Some errors occurred."
+msgstr ""
+
+#: adsense-plugin.class.php:2371
+#, php-format
+msgid ""
+"This update features vi stories from %s. This video player will supply both "
+"video content and video advertising."
+msgstr ""
+
+#: adsense-plugin.class.php:2376
+#, php-format
+msgid ""
+"To begin earning, visit the BestWebSoft plugin page, %s to %s and %s! Read "
+"the %s."
+msgstr ""
+
+#: adsense-plugin.class.php:2377
+msgid "sign up"
+msgstr ""
+
+#: adsense-plugin.class.php:2379
+msgid "place the ad live now"
+msgstr ""
+
+#: adsense-plugin.class.php:2380 adsense-plugin.class.php:2551
+#: adsense-plugin.class.php:2569
+msgid "FAQ"
+msgstr "Často kladené otázky"
+
+#: adsense-plugin.class.php:2387 adsense-plugin.class.php:2449
+#, fuzzy
+msgid "Close notice"
+msgstr "Vezměte prosím na vědomí:"
+
+#: adsense-plugin.class.php:2444
+#, php-format
+msgid "Thank you for choosing %s plugin!"
+msgstr ""
+
+#: adsense-plugin.class.php:2445
+msgid ""
+"If you have a feature, suggestion or idea you'd like to see in the plugin, "
+"we'd love to hear about it!"
+msgstr ""
+
+#: adsense-plugin.class.php:2446
+msgid "Suggest a Feature"
+msgstr ""
+
+#: adsense-plugin.class.php:2497
+msgid "Fixed"
+msgstr "Fixní"
+
+#: adsense-plugin.class.php:2510
+msgid "Widget displays Google AdSense."
+msgstr "Widget zobrazuje Google AdSense."
+
+#: adsense-plugin.class.php:2530
+msgid "Title"
+msgstr "Název"
+
+#: adsense-plugin.class.php:2532
+msgid "Please note:"
+msgstr "Vezměte prosím na vědomí:"
+
+#: adsense-plugin.class.php:2532
+msgid ""
+"Select ad block to display in the widget you can on the plugin settings page "
+"in the 'Widget' tab."
+msgstr ""
+"Vybrat reklamní blok k zobrazení ve widgetu můžete na stránce nastavení "
+"pluginu na záložce 'Widget'."
+
+#: adsense-plugin.class.php:2552
+msgid "Support"
+msgstr "Podpora"
+
+#: adsense-plugin.class.php:2560
+msgid "Have a problem? Contact us"
+msgstr ""
+
+#: adsense-plugin.class.php:2575
+msgid "For more information:"
+msgstr ""
+
+#: adsense-plugin.class.php:2576
+msgid "Documentation"
+msgstr ""
+
+#: adsense-plugin.class.php:2577
+msgid "Video Instructions"
+msgstr ""
+
+#: adsense-plugin.class.php:2578
+msgid "Contact us"
+msgstr ""
+
+#: adsense-plugin.class.php:2623
+msgid "item"
+msgstr ""
+
+#: adsense-plugin.class.php:2624
+#, fuzzy
+msgid "items"
+msgstr "položky"
+
+#: adsense-plugin.class.php:2636
+msgid "Display"
+msgstr "Zobrazit"
+
+#: adsense-plugin.class.php:2637
+msgid "Name"
+msgstr "Název"
+
+#: adsense-plugin.class.php:2638
+msgid "Id"
+msgstr "ID"
+
+#: adsense-plugin.class.php:2639
+msgid "Type / Size"
+msgstr "Typ / velikost"
+
+#: adsense-plugin.class.php:2640
+msgid "Status"
+msgstr "Stav"
+
+#: adsense-plugin.class.php:2641
+msgid "Position"
+msgstr "Pozice"
+
+#~ msgid ""
+#~ "The maximum number of ad blocks on the page cannot be more than 3 ad "
+#~ "blocks (%s)."
+#~ msgstr ""
+#~ "Maximální počet bloků reklamy na stránce nemůže být více než 3 reklamní "
+#~ "bloky (%s)."
+
+#~ msgid "Learn more"
+#~ msgstr "Zjistit více"
+
+#~ msgid ""
+#~ "Please select a smaller number of ad blocks or disable the ad block "
+#~ "display in the %s tab."
+#~ msgstr ""
+#~ "Vyberte menší počet reklamní bloky nebo zakažte zobrazení reklamního "
+#~ "bloku na záložce %s."
+
+#~ msgid "ad blocks"
+#~ msgstr "reklamní bloky"
+
+#~ msgid ""
+#~ "To display the ad block in widget, please set a smaller number of ad "
+#~ "blocks in the %s tab."
+#~ msgstr ""
+#~ "Chcete-li zobrazit reklamní blok ve widgetu, nastavte menší počet "
+#~ "reklamních bloků na kartě %s."
+
+#~ msgid ""
+#~ "To display the ad block in widget, please set a smaller number of ad "
+#~ "blocks in tabs: %s."
+#~ msgstr ""
+#~ "Chcete-li zobrazit reklamní blok ve widgetu, nastavte menší počet "
+#~ "reklamních bloků na kartách %s."
+
+#~ msgid ""
+#~ "The maximum number of ad blocks on the page cannot be more than 3 ad "
+#~ "blocks."
+#~ msgstr ""
+#~ "Maximální počet bloků reklamy na stránce nemůže být více než 3 reklamní "
+#~ "bloky."
+
+#~ msgid "Unlock premium options by upgrading to Pro version"
+#~ msgstr "Odemknout prémiové možnosti při aktualizaci na verzi Pro"
+
+#~ msgid "Attention:"
+#~ msgstr "Upozornění"
+
+#~ msgid ""
+#~ "We updated the plugin to use Google AdSense API, which is not compatible "
+#~ "with the old settings. At the moment, plugin use old settings. But for "
+#~ "further plugin usage with a new Google AdSense API, you will need to re-"
+#~ "configure the ad blocks display. Please note that the old settings and "
+#~ "plugin ad blocks in the frontend will be removed."
+#~ msgstr ""
+#~ "Byl aktualizován plugin používající Google AdSense API, který není "
+#~ "kompatibilní se starým nastavením. V současnosti plugin používá staré "
+#~ "nastavení. Pro další používání pluginu s novou Google AdSense API, budete "
+#~ "muset znovu konfigurovat zobrazení bloku reklam. Mějte na paměti, že "
+#~ "budou odstraněna stará nastavení a plugin reklamních bloků, který je "
+#~ "zobrazován."
+
+#~ msgid "Upgrade to new functionality"
+#~ msgstr "Inovovat na nové funkce"
+
+#~ msgid ""
+#~ "Google AdSense by BestWebSoft plugin was updated to use Google AdSense "
+#~ "API, which is not compatible with the old settings. For further plugin "
+#~ "usage, you will need to %s"
+#~ msgstr ""
+#~ "Google AdSense BestWebSoft plugin byl aktualizován pomocí Google AdSense "
+#~ "API, který není kompatibilní se starým nastavením. Pro další použití v "
+#~ "pluginu budete muset %s"
+
+#~ msgid "re-configure it."
+#~ msgstr "znovu jej nakonfigurujte."
+
+#~ msgid "Inactive"
+#~ msgstr "Neaktivní"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Настройки плагина были изменены. Для того, чтобы сохранить их, "
+#~ "пожалуйста, не забудьте нажать кнопку \"Сохранить\"."
+
+#~ msgid ""
+#~ "Please select a smaller number of ad blocks in the %s tab or disable the "
+#~ "ad block display in the \"Widget\" tab."
+#~ msgstr ""
+#~ "Пожалуйста, выберите меньше рекламных блоков на вкладке %s или отключите "
+#~ "показ рекламного блока на вкладке  \"Виджет\"."
+
+#~ msgid ""
+#~ "Please select a smaller number of ad blocks on tabs: %s or disable the ad "
+#~ "block display in the \"Widget\" tab."
+#~ msgstr ""
+#~ "Пожалуйста, выберите меньше рекламных блоков на вкладках: %s или "
+#~ "отключите показ рекламного блока на вкладке \"Виджет\"."
+
+#, fuzzy
+#~ msgid ""
+#~ "The maximum number of ad blocks on the page cannot be more than ad 3 "
+#~ "blocks."
+#~ msgstr ""
+#~ "Максимальное количество рекламных блоков на странице не может превышать "
+#~ "больше 3х рекламных блоков. "
+
+#~ msgid "Corner style property will help you to make your Ad corners rounded."
+#~ msgstr ""
+#~ "С помощью данного свойства Вы можете закруглить углы Вашего рекламного "
+#~ "блока."
+
+#~ msgid ""
+#~ "Please enter a percentage value of the ad slots you are ready to share "
+#~ "[Default: 0%]."
+#~ msgstr ""
+#~ "Введите процент от просмотра рекламы, которым вы можете пожертвовать [По "
+#~ "умолчанию: 0%]."
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "или выше, поэтому он был деактивирован! Пожалуйста, обновите WordPress и "
+#~ "попробуйте еще раз."
